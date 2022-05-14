@@ -150,6 +150,7 @@
     "author": [
       "Alex Campbell (Chief)",
       "Alex Vanover",
+      "Ara Yapejian",
       "AyyyKayyy - Anthony Knight",
       "Betaflight",
       "BMSThomas",
@@ -221,6 +222,7 @@
       "AlexFPV",
       "analog",
       "aux",
+      "ay",
       "AyyyKayyy",
       "bando",
       "bardwell",
@@ -772,6 +774,22 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/AY_Analog.txt",
+      "hash": "809b687d8071278f7438eada7551f038aa661b1ee03eae834e231bab30b79302",
+      "title": "AY - Analog OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "analog",
+        "ay"
+      ],
+      "author": "Ara Yapejian",
       "priority": 0
     },
     {
