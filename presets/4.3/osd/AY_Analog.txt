@@ -16,12 +16,13 @@
 #$ DESCRIPTION: OSD Elements Include:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: Page 1 (Default):
+#$ DESCRIPTION: -----------
 #$ DESCRIPTION: Page 2 (Minimal):
+#$ DESCRIPTION: -----------
 #$ DESCRIPTION: Page 3 (Verbose):
+#$ DESCRIPTION: -----------
 #$ DESCRIPTION:
 #$ INCLUDE: presets/4.3/osd/defaults.txt
-
-# TODO: Need to add options for selecting the receiver, if ELRS then set the RSSI DMB Value warning value and OSD postion and Link Quality Settings if not ELRS then just use defaults?
 
 # OSD Profile 1: Default
 set osd_profile = 1
@@ -33,9 +34,6 @@ set osd_warn_fail_safe              = OFF
 set osd_warn_launch_control         = OFF
 set osd_warn_no_gps_rescue          = OFF
 set osd_vbat_pos                    = 2433
-set osd_rssi_pos                    = 2241
-set osd_link_quality_pos            = 2273
-set osd_rssi_dbm_pos                = 2305
 set osd_tim_1_pos                   = 386
 set osd_tim_2_pos                   = 2455
 set osd_remaining_time_estimate_pos = 33
@@ -54,35 +52,16 @@ set osd_esc_tmp_pos                 = 163
 set osd_esc_rpm_pos                 = 150
 set osd_core_temp_pos               = 278
 
-# set osd_warn_core_temp = OFF
-# set osd_warn_fail_safe = OFF
-# set osd_warn_rssi = ON
-# set osd_rssi_alarm = 30
-# set osd_cap_alarm = 1200
-# set osd_alt_alarm = 400
-# set osd_rssi_pos = 2098
-# set osd_link_tx_power_pos = 2113
-# set osd_tim_1_pos = 449
-# set osd_tim_2_pos = 2465
-# set osd_remaining_time_estimate_pos = 2498
-# set osd_g_force_pos = 2489
-# set osd_vtx_channel_pos = 2081
-# set osd_current_pos = 2102
-# set osd_mah_drawn_pos = 2136
-# set osd_altitude_pos = 2518
-# set osd_pid_roll_pos = 33
-# set osd_pid_pitch_pos = 65
-# set osd_pid_yaw_pos = 97
-# set osd_warnings_pos = 2249
-# set osd_avg_cell_voltage_pos = 2091
-# set osd_flip_arrow_pos = 2221
-# set osd_core_temp_pos = 467
-# set osd_log_status_pos = 2458
-# set osd_stat_tim_1 = ON
-# set osd_stat_endbatt = ON
-# set osd_stat_max_alt = ON
-# set osd_stat_max_g_force = ON
-# set osd_menu_background = GRAY
+
+# ELRS Settings, setup RSSI DBM Value and Link Quality
+#$ OPTION BEGIN (UNCHECKED): Receiver ELRS?
+set osd_warn_link_quality  = ON
+set osd_warn_rssi_dbm      = ON
+set osd_link_quality_alarm = 85
+set osd_link_quality_pos   = 2273
+set osd_rssi_dbm_alarm     = -90
+set osd_rssi_dbm_pos       = 2305
+#$ OPTION END
 
 # OSD Profile 2: Minimal
 set osd_profile = 2
@@ -92,5 +71,5 @@ set osd_profile_2_name = Minimal
 set osd_profile = 3
 set osd_profile_3_name = Verbose
 
-# Select ODS Profile 1 as default
+# Select ODS Profile 1
 set osd_profile = 1
