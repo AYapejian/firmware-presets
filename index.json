@@ -162,9 +162,7 @@
       "LeadFingers",
       "mouseFPV",
       "MrAlucardDante",
-      "NemesisXB",
       "Quad66",
-      "Sjoer van der Ploeg",
       "sugarK",
       "SupaflyFPV",
       "UAV Tech (Mark Spatz)"
@@ -235,7 +233,6 @@
       "ctzsnooze",
       "default",
       "defaults",
-      "diatone",
       "Digipick",
       "digital",
       "divimath",
@@ -244,7 +241,6 @@
       "E7082VM",
       "eachine",
       "ELRS",
-      "emax",
       "expert",
       "express",
       "filter",
@@ -281,14 +277,12 @@
       "link",
       "Llama",
       "Long Range",
-      "mamba",
       "meteor",
       "mode",
       "modes",
       "mouse fpv",
       "namelessrc",
       "nano",
-      "nanohawk",
       "no rpm",
       "noisy",
       "normal",
@@ -323,8 +317,6 @@
       "Rx",
       "sa",
       "SA 2.1",
-      "sa2.0",
-      "sa20",
       "sbus",
       "SBUS fast",
       "settings",
@@ -360,8 +352,6 @@
       "tune",
       "twig",
       "tx5m.1",
-      "ultra",
-      "ultra 1000",
       "ultralite",
       "utility",
       "very",
@@ -2487,28 +2477,6 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.3/vtx/diatone_mamba_ultra_1000.txt",
-      "hash": "f058b040995b0054977e5a70298cc26b699ea7c64d825e55fbf55905b3aac74e",
-      "title": "Diatone Mamba Ultra 1000 VTX Tables",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "vtx table",
-        "vtxtable",
-        "diatone",
-        "mamba",
-        "ultra",
-        "ultra 1000"
-      ],
-      "author": "NemesisXB",
-      "priority": 1000000
-    },
-    {
       "fullPath": "presets/4.3/vtx/Eachine_Nano_V2.txt",
       "hash": "501c014c05fd0d9b46c0cab00c6dc9edabee5dfb89ce8e2e5a9bdda03778c93b",
       "title": "Eachine Nano V2 VTX Table",
@@ -2614,28 +2582,6 @@
         "quad66"
       ],
       "author": "Quad66",
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.3/vtx/NanoHawk.txt",
-      "hash": "86e37f00a44c33cca95989a0ce78735c12744dbe230a373278aca86b3c159b19",
-      "title": "Emax NanoHawk 1S SmartAudio 2.0 VTX table",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "nanohawk",
-        "emax",
-        "smartaudio",
-        "sa",
-        "sa20",
-        "sa2.0"
-      ],
-      "author": "Sjoer van der Ploeg",
       "priority": 1000000
     },
     {
