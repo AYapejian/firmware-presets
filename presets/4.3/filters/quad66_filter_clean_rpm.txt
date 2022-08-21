@@ -50,3 +50,5 @@ set dterm_lpf2_static_hz = 300
 # -- Dterm sliders --
 set simplified_dterm_filter_multiplier = 200
 
+
+#
