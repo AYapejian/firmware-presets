@@ -340,6 +340,7 @@
       "OpenRacer",
       "OpenVTx",
       "OSD",
+      "OSD quad66",
       "output limit",
       "OVX300",
       "OVX303",
@@ -820,6 +821,21 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/quad66_osd.txt",
+      "hash": "2fdfdd6c9e4ae3bf15c30ed761ad8479f070538ad97b2d829dc45ce774027188",
+      "title": "Quad66 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD quad66"
+      ],
+      "author": "quad66",
       "priority": 0
     },
     {
