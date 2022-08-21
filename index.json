@@ -152,7 +152,6 @@
       "Alex Campbell (Chief)",
       "AyyyKayyy - Anthony Knight",
       "Betaflight",
-      "BMSThomas",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Directory",
@@ -228,7 +227,6 @@
       "basic",
       "betaflight",
       "BMI270",
-      "BMSThomas",
       "brushless",
       "Cgo",
       "Chief",
@@ -857,24 +855,6 @@
       ],
       "author": "Quad66",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "b7475cbcf6113cc01385f282c8d85bfee258cc7256aabdb9d995fcbaa6304cb5",
-      "title": "BMSThomas racing/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "BMSThomas",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "BMSThomas",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/CGo.txt",
