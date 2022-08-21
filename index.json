@@ -176,6 +176,7 @@
       "15Hz",
       "166Hz",
       "1S",
+      "2.5 inch",
       "20ms",
       "250Hz",
       "2in",
@@ -2023,6 +2024,78 @@
       ],
       "author": "mouseFPV",
       "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_1S_3inch_1203_1_13_2022.txt",
+      "hash": "0f4badb8e798586b59467fd53c4a46b935acca6f1f3e1f34ff0b2781d8cfa6c3",
+      "title": "Quad66 tune 1S 3 inch 1203 or (13mm) motors 48 khz 60gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "3 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_2S_25inch_1103_1_13_2022.txt",
+      "hash": "b0b7fb26ff4e9bf6037cfe940d8d2643294085e8c3708f8c475d0f63dc6d0934",
+      "title": "Quad66 tune 2S 2.5 inch 1103 48 khz 60gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2S",
+        "2.5 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_3S_3inch_1203_1_13_2022.txt",
+      "hash": "4cfeaa2577daaa72efb34c1eef7f1f0908afd509418404c1f1c464ab2d7e083e",
+      "title": "Quad66 tune 3S 3 inch 1203 48 khz 90gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "3S",
+        "3 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_65mm_whoop_1_28_2022.txt",
+      "hash": "86981b2f461f02313b7d518abee7e7dccaee45da2a22c8ea6e3a8a5aa14b2d85",
+      "title": "Quad66 tune 65mm acro race whoop Azi quad blade 0802 motors 48 khz tuned at 31.4gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "whoop",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
       "priority": 1000000000000
     },
     {
