@@ -306,6 +306,7 @@
       "pro32",
       "Pure Race",
       "quad66",
+      "quad66 rates",
       "race",
       "race rates ctzsnooze actual",
       "race v1",
@@ -880,6 +881,21 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/quad66_rates.txt",
+      "hash": "c410e67aa882cc322d85d90fa1349238ba0e1a8d868637ed6f1e44f22e1380fe",
+      "title": "Quadd66 rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66 rates"
+      ],
+      "author": "Quad66",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
