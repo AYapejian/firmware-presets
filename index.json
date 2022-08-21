@@ -265,7 +265,6 @@
       "divimath",
       "DJI",
       "DShot telemetry",
-      "dual",
       "E7082VM",
       "eachine",
       "ELRS",
@@ -728,29 +727,6 @@
         "BMI270",
         "filter",
         "filters",
-        "gyroscope",
-        "gyro",
-        "gyros",
-        "settings",
-        "RPM"
-      ],
-      "author": "DusKing1 (Hugo Chiang), Pitronic",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/dusking_BMI270_dual.txt",
-      "hash": "359a3d4d5391cb3c30bec79cc00db8dbb39de19c587bd8584930c1d21e06cb3e",
-      "title": "DusKing's dual BMI270 filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "BMI270",
-        "filter",
-        "filters",
-        "dual",
         "gyroscope",
         "gyro",
         "gyros",
