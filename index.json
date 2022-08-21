@@ -363,6 +363,7 @@
       "sbus",
       "SBUS fast",
       "settings",
+      "setup",
       "shames",
       "Smart",
       "smart audio",
@@ -830,6 +831,54 @@
         "utility"
       ],
       "author": "Daniel Appel / Tehllama",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/quad66_f411_performance .txt",
+      "hash": "11ee41eb6ddf46fecbf0359e5608b56a326a86f99e9e77c670dbdeb0ed32251d",
+      "title": "Quad66 F411 Setup Base",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/quad66_f411_performance _whoop.txt",
+      "hash": "d27002025236237dabe415398b0f37529b4b4e34bf90686e07615f5402bba872",
+      "title": "Quad66 F411 Setup Base Whoop",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/quad66_rx_switches.txt",
+      "hash": "143121ff43b442bc31e3c7fb81807f8ae31793d4244da67b96b4efbc2b652b16",
+      "title": "Quad66 RX map and Switches Setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
       "priority": 0
     },
     {
