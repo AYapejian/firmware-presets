@@ -159,7 +159,6 @@
       "DusKing1 (Hugo Chiang), Pitronic",
       "FPVian",
       "Ivan Efimov (Limon)",
-      "Joshua Bardwell",
       "Justice - Gary Kent",
       "Jye Smith",
       "KMfpv",
@@ -225,7 +224,6 @@
       "aux",
       "AyyyKayyy",
       "bando",
-      "bardwell",
       "basher",
       "basic",
       "betaflight",
@@ -399,8 +397,7 @@
       "whoop",
       "whoop lite",
       "whooptopia",
-      "world champion",
-      "youtube"
+      "world champion"
     ]
   },
   "presets": [
@@ -860,23 +857,6 @@
       ],
       "author": "Quad66",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/Bardwell.txt",
-      "hash": "fe0db350b5775b7b2ceaf54ce51ddaef1b3f813e707e09c127943bc07c1d1f92",
-      "title": "Joshua Bardwell rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "youtube",
-        "bardwell",
-        "freestyle"
-      ],
-      "author": "Joshua Bardwell",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/BMSThomas.txt",
