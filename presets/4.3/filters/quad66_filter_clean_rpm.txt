@@ -37,7 +37,7 @@ set dyn_notch_max_hz = 600
 
 # -- RPM filtering --
 set dshot_bidir = ON
-set motor_pwm_protocol = DSHOT300
+#set motor_pwm_protocol = DSHOT300
 set motor_poles = 12
 set rpm_filter_q = 750
 
