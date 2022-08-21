@@ -610,7 +610,7 @@
     },
     {
       "fullPath": "presets/4.3/filters/quad66_filter_clean_rpm.txt",
-      "hash": "9e53bb80ab8be0970cfd8227940fb7ac828e5b7aa5aead8011bcaebb46b872ca",
+      "hash": "332a692e8cc391f000eb7cfb126445336f879f111abdd6e789d6f8fc1fbda4f0",
       "title": "Quad66 4.3 Filter settings for VERY CLEAN build with RPM FILTERING.",
       "firmware_version": [
         "4.3"
