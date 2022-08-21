@@ -254,7 +254,6 @@
       "Crossfire",
       "CRSF",
       "ctzsnooze",
-      "CTZsoonze",
       "DDC",
       "default",
       "defaults",
@@ -285,7 +284,6 @@
       "freedom spec",
       "FreedomSpec",
       "freestyle",
-      "freesytle",
       "freetyle",
       "frsky",
       "Garban",
@@ -311,7 +309,7 @@
       "IRC Tramp",
       "justice",
       "karate",
-      "KarateBrot",
+      "karateBrot",
       "launch",
       "launch_mode",
       "LeadFingers",
@@ -399,7 +397,6 @@
       "Street",
       "Street League",
       "StreetLeague",
-      "suagrK",
       "sub 250",
       "sugarK",
       "Supafly",
@@ -759,29 +756,6 @@
         "RPM"
       ],
       "author": "DusKing1 (Hugo Chiang), Pitronic",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "7d4913bf9839cc9bb055ab942a22c3c015a2f258e30633a07edcaaf98eb85df0",
-      "title": "the Karate array",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "karate",
-        "race",
-        "freesytle",
-        "suagrK",
-        "CTZsoonze",
-        "KarateBrot",
-        "5\""
-      ],
-      "author": "sugarK",
       "priority": 100
     },
     {
