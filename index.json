@@ -173,6 +173,7 @@
       "mouseFPV",
       "MrAlucardDante",
       "NemesisXB",
+      "Quad66",
       "Sjoer van der Ploeg",
       "sugarK",
       "SupaflyFPV",
@@ -351,6 +352,7 @@
       "pro32",
       "profile",
       "Pure Race",
+      "quad66",
       "quaddiction",
       "quick",
       "race",
@@ -756,6 +758,22 @@
         "RPM"
       ],
       "author": "DusKing1 (Hugo Chiang), Pitronic",
+      "priority": 100
+    },
+    {
+      "fullPath": "presets/4.3/filters/quad66_filter_clean_rpm.txt",
+      "hash": "d5c4f70836f8d8e146a3d3eb78bcd346580d898cc94027068db5af78be25c565",
+      "title": "Quad66 4.3 Filter settings for VERY CLEAN build with RPM FILTERING.",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66",
+        "filter"
+      ],
+      "author": "Quad66",
       "priority": 100
     },
     {
