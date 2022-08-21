@@ -428,28 +428,6 @@
       "priority": 100
     },
     {
-      "fullPath": "presets/4.3/filters/default_no_rpm_noisy.txt",
-      "hash": "04de8d94400cc218d57ff0896cdce43c3784ddd2c5b65381631b13a7dc09cc88",
-      "title": "4.3 Filter settings for NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "noisy",
-        "no rpm",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
       "fullPath": "presets/4.3/filters/default_no_rpm_normal.txt",
       "hash": "d7d779631e27f231832409940c0f61cd8408a01acc578166f449999440e602e5",
       "title": "4.3 Filter settings for NORMAL build WITH NO RPM FILTERING.",
