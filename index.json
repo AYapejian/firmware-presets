@@ -289,6 +289,7 @@
       "mode",
       "modes",
       "mouse fpv",
+      "namelessrc",
       "nano",
       "nanohawk",
       "no rpm",
@@ -2610,6 +2611,25 @@
         "karatebrot"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/namelessrc_nano.txt",
+      "hash": "87834b9fe73f62e06b7ce028e844727df7db0060b280b5b483a481ac4324288e",
+      "title": "NamelessRC Nano",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "namelessrc",
+        "quad66"
+      ],
+      "author": "Quad66",
       "priority": 1000000
     },
     {
