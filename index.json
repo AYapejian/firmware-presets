@@ -247,6 +247,7 @@
       "filtering",
       "filters",
       "five33",
+      "flywoo",
       "FPVCycle",
       "FPVCycle TP3",
       "fpvian",
@@ -2487,6 +2488,25 @@
         "Audio TBS"
       ],
       "author": "KMfpv",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/flywoo_versatile_aio.txt",
+      "hash": "a96a0cb32cf40a46838856597667dd64bd2464b8cdac7bb406ef20daadd214e3",
+      "title": "VTX Flywoo Versatile AIO 1S board",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "flywoo",
+        "quad66"
+      ],
+      "author": "Quad66",
       "priority": 1000000
     },
     {
