@@ -150,7 +150,6 @@
     ],
     "author": [
       "Alex Campbell (Chief)",
-      "Alex Vanover",
       "AyyyKayyy - Anthony Knight",
       "Betaflight",
       "BMSThomas",
@@ -158,18 +157,13 @@
       "Daniel Appel / Tehllama",
       "Directory",
       "DusKing1 (Hugo Chiang), Pitronic",
-      "Evan Turner (Headsup)",
-      "Feisar",
       "FPVian",
-      "Garban",
-      "IllusionFpv",
       "Ivan Efimov (Limon)",
       "Joshua Bardwell",
       "Justice - Gary Kent",
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
-      "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
       "NemesisXB",
@@ -222,7 +216,6 @@
       "9in",
       "9ms",
       "acro",
-      "Acrobaix",
       "actual",
       "adjustments",
       "AlexFPV",
@@ -242,7 +235,6 @@
       "Cgo",
       "Chief",
       "cinelifter",
-      "cinematic",
       "cinewhoop",
       "clean",
       "clear",
@@ -250,7 +242,6 @@
       "Crossfire",
       "CRSF",
       "ctzsnooze",
-      "DDC",
       "default",
       "defaults",
       "diatone",
@@ -266,7 +257,6 @@
       "EVO",
       "expert",
       "express",
-      "feisar",
       "filter",
       "filtering",
       "filters",
@@ -277,21 +267,17 @@
       "freedom",
       "freedom spec",
       "freestyle",
-      "freetyle",
       "frsky",
-      "Garban",
       "ghost",
       "GHST",
       "GoPro",
       "gyro",
       "gyros",
       "gyroscope",
-      "HD",
       "HDzero",
-      "Headsup",
+      "headsup",
       "hot",
       "HV",
-      "IllusionFpv",
       "immersion",
       "immersionRC",
       "IRC",
@@ -302,13 +288,12 @@
       "LeadFingers",
       "League",
       "leds",
-      "Limon",
+      "limon",
       "link",
       "Llama",
       "Long Range",
       "mamba",
       "meteor",
-      "MinChan",
       "mode",
       "modes",
       "mouse fpv",
@@ -319,7 +304,6 @@
       "noisy",
       "normal",
       "OP400",
-      "OpenRacer",
       "OpenVTx",
       "OSD",
       "OSD quad66",
@@ -333,7 +317,6 @@
       "Pure Race",
       "quad66",
       "quaddiction",
-      "quick",
       "race",
       "race rates ctzsnooze actual",
       "race v1",
@@ -352,7 +335,6 @@
       "rush",
       "rush tank",
       "rushfpv",
-      "russia",
       "Rx",
       "sa",
       "SA 2.0",
@@ -387,7 +369,6 @@
       "TBS",
       "tbs sa",
       "Team Black Sheep",
-      "texas",
       "tiny",
       "tiny tank",
       "TinyTrainer",
@@ -407,7 +388,6 @@
       "unify",
       "unify pro",
       "utility",
-      "vanover",
       "very",
       "very clean",
       "very noisy",
@@ -986,187 +966,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/Directory_freestyle.txt",
-      "hash": "2478b869e459450024e482488d4fa3103528d449db747f48e2e873eb18d77a9c",
-      "title": "Directory freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "freestyle"
-      ],
-      "author": "Directory",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Feisar_freestyle.txt",
-      "hash": "e5ecd4c804d9c099c7c8b99c386e484d8bffe32fc748e4ecd55d17e74297f5c1",
-      "title": "Feisar freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rates",
-        "betaflight",
-        "feisar"
-      ],
-      "author": "Feisar",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Garban_race.txt",
-      "hash": "38458536a284eccd15f779595d9bb18b833ac5b4a6bd2787f0ee51fb88f490b2",
-      "title": "Garban Official race rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "DDC",
-        "Acrobaix",
-        "Garban"
-      ],
-      "author": "Garban",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Headsup533.txt",
-      "hash": "82f3e158de3b4e037551a672dabaa752e44943c9b13f6ebf33c092c9d63dade1",
-      "title": "Headsup racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "Headsup",
-        "533",
-        "five33",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Evan Turner (Headsup)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/illusionfpv_freestyle.txt",
-      "hash": "79a4e23fec488266e4e3ac174235d49bf013154b83caf0c8f5e223135be0f5f6",
-      "title": "freestyle rates by IllusionFpv",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "freestyle",
-        "rates",
-        "IllusionFpv",
-        "quick"
-      ],
-      "author": "IllusionFpv",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/limon.txt",
-      "hash": "07372fdf1beee407d23e977a89f414c40dc1aaa620069c46a2b0a51bd49da2a0",
-      "title": "Limon racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "racing",
-        "Limon",
-        "OpenRacer",
-        "texas",
-        "russia",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/MinChan.txt",
-      "hash": "2ec0aa7511e5642e28f82211380594a2efbf6e6e801942f1151d2fb5a9658c50",
-      "title": "MinChan Kim racing rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "MinChan",
-        "rates"
-      ],
-      "author": "MinChan Kim",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/mouseFreestyle.txt",
-      "hash": "46b34a3ddf5526a7f752f5e62971096ccb6c170195affe921f8b7b323fb3293d",
-      "title": "mouseFPV Freestyle Rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "freestyle"
-      ],
-      "author": "mouseFPV",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/UAV_tech.txt",
-      "hash": "b0ca5a2a097e8b90f0aa50cbc72936512b4adfdde9a83cff76bd05fc87d36e62",
-      "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "whoop",
-        "freetyle",
-        "cinematic",
-        "HD"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Vanover.txt",
-      "hash": "a967f62ea2403b1cae5036cdc2e08e5964d4722640e7578048b95ab356658cc6",
-      "title": "Vanover racing/freestyle rates",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "race",
-        "vanover",
-        "rates",
-        "MultiGP",
-        "freestyle"
-      ],
-      "author": "Alex Vanover",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
