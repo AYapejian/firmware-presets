@@ -10,7 +10,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: If the quad is too angry try a more conservative D term slider position. 
 
-#$ INCLUDE: presets/4.3/filters/defaults.txt
+
 
 # -- RPM filtering OFF --
 set rpm_filter_harmonics = 0
