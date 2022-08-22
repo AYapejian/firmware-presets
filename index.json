@@ -276,7 +276,6 @@
       "Team Black Sheep",
       "Tracer",
       "tramp",
-      "transmitter",
       "tune",
       "tx5m.1",
       "utility",
@@ -769,25 +768,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
-      "hash": "f6adb5f164fe234ee3e0f96747d629d548ac222fb7d7f658202a2bb60d786bdf",
-      "title": "DJI Normal",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "DJI",
-        "rc",
-        "link",
-        "transmitter"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "force_options_review": true,
-      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
