@@ -260,11 +260,10 @@
       "IRC Tramp",
       "justice",
       "karate",
-      "karateBrot",
+      "karatebrot",
       "LeadFingers",
       "League",
       "leds",
-      "limon",
       "link",
       "Llama",
       "Long Range",
@@ -342,20 +341,16 @@
       "tune",
       "twig",
       "tx5m.1",
-      "ultralite",
       "utility",
       "very",
       "very clean",
       "very noisy",
-      "viper",
-      "viper lite",
       "vtx",
       "vtx table",
       "vtxtable",
       "whoop",
       "whoop lite",
-      "whooptopia",
-      "world champion"
+      "whooptopia"
     ]
   },
   "presets": [
@@ -1744,78 +1739,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_freestyle_5_inch.txt",
-      "hash": "93602c5a24a653093e3ef37d10554d3138acb4da4de60ecabbe2ad0640f72831",
-      "title": "Freestyle 5\" Karate Style",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "karateBrot",
-        "freestyle"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_race.txt",
-      "hash": "04687315755456c9b599692b0ddafe64eec8d93372dcf992141b4adf38658c9b",
-      "title": "Karate Race 6s 5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "race",
-        "world champion",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "KarateBrot"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_race_lite.txt",
-      "hash": "046940c9aead3ece7db64f4fd79abab02d5f9c144d2e37aa572694b54ecd2625",
-      "title": "Karate 'Viper Lite' Race  5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "race",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "KarateBrot",
-        "ultralite",
-        "viper",
-        "viper lite"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
