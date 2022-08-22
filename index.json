@@ -177,7 +177,6 @@
       "500Hz",
       "50Hz",
       "55Hz",
-      "666Hz",
       "9ms",
       "actual",
       "adjustments",
@@ -252,7 +251,6 @@
       "rc link",
       "rc_link",
       "rc_smoothing",
-      "Redpine",
       "reset",
       "RPM",
       "Rx",
@@ -1398,44 +1396,6 @@
         "quad66"
       ],
       "author": "Quad66",
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",
-      "hash": "4eda547aa9254df2aaa1f8d9ced25a219864255ac5a58c3b53ad3545fc19f33d",
-      "title": "Redpine 666Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Redpine",
-        "rc",
-        "link",
-        "666Hz"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/redpine_mpm.txt",
-      "hash": "1f50051c8871655a820d60b1d221b35bb052b26a9880c916d963faa74c4ecfd0",
-      "title": "Redpine MPM",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Redpine",
-        "rc",
-        "link",
-        "666Hz"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
       "priority": 10000000000
     },
     {
