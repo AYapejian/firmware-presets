@@ -1672,6 +1672,24 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.3/tune/quad66_tune_2S_2512_1202_5_11500kv_8_21_2022.txt",
+      "hash": "b0b7fb26ff4e9bf6037cfe940d8d2643294085e8c3708f8c475d0f63dc6d0934",
+      "title": "Quad66 tune 2S 2.5 inch 1103 48 khz 60gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2S",
+        "2.5 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.3/tune/quad66_tune_2S_25inch_1103_1_13_2022.txt",
       "hash": "b0b7fb26ff4e9bf6037cfe940d8d2643294085e8c3708f8c475d0f63dc6d0934",
       "title": "Quad66 tune 2S 2.5 inch 1103 48 khz 60gm AUW",
