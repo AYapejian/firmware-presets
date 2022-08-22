@@ -159,7 +159,6 @@
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
-      "mouseFPV",
       "MrAlucardDante",
       "Quad66",
       "sugarK",
@@ -178,11 +177,11 @@
       "2in",
       "2ms",
       "2S",
-      "3 Inch",
+      "3 inch",
       "3.5in",
       "3\"",
       "3in",
-      "3s",
+      "3S",
       "4in",
       "4S",
       "5 inch",
@@ -210,8 +209,6 @@
       "acro",
       "actual",
       "adjustments",
-      "AOS",
-      "AOS T3",
       "Audio TBS",
       "aux",
       "AyyyKayyy",
@@ -229,7 +226,6 @@
       "ctzsnooze",
       "default",
       "defaults",
-      "Digipick",
       "digital",
       "divimath",
       "DJI",
@@ -243,13 +239,10 @@
       "filtering",
       "filters",
       "flywoo",
-      "FPVCycle",
-      "FPVCycle TP3",
-      "freestyle",
+      "Freestyle",
       "frsky",
       "ghost",
       "GHST",
-      "GoPro",
       "gyro",
       "gyros",
       "gyroscope",
@@ -270,7 +263,6 @@
       "meteor",
       "mode",
       "modes",
-      "mouse fpv",
       "namelessrc",
       "nano",
       "no rpm",
@@ -321,19 +313,16 @@
       "Street",
       "Street League",
       "StreetLeague",
-      "sub 250",
       "sugarK",
       "Supafly",
       "SupaflyFPV",
       "switch",
-      "T3",
       "TBS",
       "tbs sa",
       "Team Black Sheep",
       "tiny",
       "TinyTrainer",
       "toothpic",
-      "Toothpick",
       "Tracer",
       "trainer",
       "tramp",
@@ -1739,105 +1728,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "0dd026ca9f1a4eaa24c758f4c1b3840401a4fb4e6ce3f5ed617fc42da23c352d",
-      "title": "AOS 3.5 V1 4s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "AOS",
-        "4s",
-        "freestyle",
-        "sub 250"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_Digipick_braced.txt",
-      "hash": "16897a988ba9317a6b02beb81b3c9b5042aa4e3eee00187e37c54738502980e4",
-      "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "FPVCycle TP3",
-        "Digipick",
-        "Toothpick",
-        "3s",
-        "3 Inch",
-        "4s",
-        "AOS T3",
-        "T3"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "843d79c8635d2ed5eddab912bb7aeff174faf6619321c110f19b5dc37930e884",
-      "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "FPVCycle",
-        "5 inch",
-        "5in",
-        "6S",
-        "freestyle",
-        "GoPro",
-        "mouse fpv"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "687d0579012fe8e2bd5bb1c5a6eb4f7ef9a9f2b02566a32eb304c6566b19ce89",
-      "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "FPVCycle"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_toothpick3_3s.txt",
-      "hash": "385d6c89bd737aaf3c56ff5312443b41e4a11d9887b8b23d47d1cf420a04e5d2",
-      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "FPVCycle TP3",
-        "Toothpick",
-        "3s",
-        "3 inch"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/quad66_tune_1S_3inch_1203_1_13_2022.txt",
