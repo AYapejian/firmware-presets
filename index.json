@@ -183,7 +183,6 @@
       "aux",
       "basic",
       "betaflight",
-      "clean",
       "clear",
       "Configure",
       "Crossfire",
@@ -266,8 +265,6 @@
       "tune",
       "tx5m.1",
       "utility",
-      "very",
-      "very clean",
       "vtx",
       "vtx table",
       "vtxtable",
@@ -336,30 +333,6 @@
       "priority": 100
     },
     {
-      "fullPath": "presets/4.3/filters/default_no_rpm_very_clean.txt",
-      "hash": "fc2bcbbae89d4c42d459d16938c20a80fc8d541123e37e7dcad89c5756b3241a",
-      "title": "4.3 Filter settings for VERY CLEAN build WITHOUT RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "no rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
       "fullPath": "presets/4.3/filters/default_rpm_normal.txt",
       "hash": "514677251d86ed5f7894e61fabbb8449f74a53efda71ceff6caa0a2f86acc16c",
       "title": "4.3 Filter settings for NORMAL build with RPM FILTERING.",
@@ -374,30 +347,6 @@
         "filter",
         "filters",
         "normal",
-        "basic",
-        "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/default_rpm_very_clean.txt",
-      "hash": "148d14351390490e81f7f868afff72a8252e35bdd294bfa9da983eb34b293490",
-      "title": "4.3 Filter settings for VERY CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
         "basic",
         "default",
         "betaflight"
