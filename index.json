@@ -242,12 +242,9 @@
       "filter",
       "filtering",
       "filters",
-      "five33",
       "flywoo",
       "FPVCycle",
       "FPVCycle TP3",
-      "freedom",
-      "freedom spec",
       "freestyle",
       "frsky",
       "ghost",
@@ -257,7 +254,6 @@
       "gyros",
       "gyroscope",
       "HDzero",
-      "headsup",
       "immersion",
       "immersionRC",
       "IRC",
@@ -300,7 +296,6 @@
       "race v2",
       "Race250",
       "Race500",
-      "racing",
       "rates",
       "RC",
       "rc link",
@@ -1749,31 +1744,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/freedom_spec_460g.txt",
-      "hash": "006ebaa17f472e3ade9e68c1332874c6ad39e41b75e28955747a5cf72ba5918c",
-      "title": "Freedom Spec 460 - 500g",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "freedom",
-        "freedom spec",
-        "headsup",
-        "five33",
-        "533",
-        "racing",
-        "race",
-        "5\""
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/karate_freestyle_5_inch.txt",
