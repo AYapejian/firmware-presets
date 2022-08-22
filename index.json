@@ -167,6 +167,7 @@
       "15Hz",
       "166Hz",
       "1S",
+      "2 inch",
       "2.5 inch",
       "20ms",
       "250Hz",
@@ -1652,6 +1653,24 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_1S_2015_1002_22000kv_8_21_2022.txt",
+      "hash": "c39f1c9bd64c8308b6056dc4d3149716b3e59fe18966cf7937b3f2c1ba230a6b",
+      "title": "Quad66 Preliminiary tune 1S GF2015 1002 22,000kv 48 khz",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "2 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/quad66_tune_1S_3inch_1203_1_13_2022.txt",
