@@ -158,7 +158,6 @@
       "Justice - Gary Kent",
       "Jye Smith",
       "KMfpv",
-      "LeadFingers",
       "MrAlucardDante",
       "Quad66",
       "sugarK",
@@ -254,8 +253,6 @@
       "justice",
       "karate",
       "karatebrot",
-      "LeadFingers",
-      "League",
       "leds",
       "link",
       "Llama",
@@ -277,7 +274,6 @@
       "partial",
       "Passthrough",
       "pid",
-      "PIDtoolbox",
       "Pure Race",
       "quad66",
       "quad66 rates",
@@ -310,9 +306,6 @@
       "Solid250",
       "some",
       "Spec",
-      "Street",
-      "Street League",
-      "StreetLeague",
       "sugarK",
       "Supafly",
       "SupaflyFPV",
@@ -1840,27 +1833,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/Street_League_LeadFingers.txt",
-      "hash": "89cad2a7ae168d8ffa1d007e5c968c9306941fe720f4cf5bb77b72da1c430a97",
-      "title": "Street League LeadFingers PIDtoolbox tune",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Street League",
-        "StreetLeague",
-        "Street",
-        "League",
-        "LeadFingers",
-        "PIDtoolbox",
-        "7\""
-      ],
-      "author": "LeadFingers",
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
