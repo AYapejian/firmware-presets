@@ -149,13 +149,11 @@
       "VTX"
     ],
     "author": [
-      "AyyyKayyy - Anthony Knight",
       "Betaflight",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "DusKing1 (Hugo Chiang), Pitronic",
       "Ivan Efimov (Limon)",
-      "Justice - Gary Kent",
       "Jye Smith",
       "KMfpv",
       "MrAlucardDante",
@@ -179,19 +177,15 @@
       "500Hz",
       "50Hz",
       "55Hz",
-      "65mm",
       "666Hz",
       "9ms",
-      "acro",
       "actual",
       "adjustments",
       "Audio TBS",
       "aux",
-      "AyyyKayyy",
       "basic",
       "betaflight",
       "BMI270",
-      "brushless",
       "clean",
       "clear",
       "Configure",
@@ -225,12 +219,10 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
-      "justice",
       "karatebrot",
       "leds",
       "link",
       "Long Range",
-      "meteor",
       "mode",
       "modes",
       "namelessrc",
@@ -294,8 +286,7 @@
       "vtx table",
       "vtxtable",
       "whoop",
-      "whoop lite",
-      "whooptopia"
+      "whoop lite"
     ]
   },
   "presets": [
@@ -1773,53 +1764,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
-      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
-      "title": "Whoop race tune by AyyyKayyy",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "AyyyKayyy",
-        "meteor",
-        "whooptopia",
-        "brushless"
-      ],
-      "author": "AyyyKayyy - Anthony Knight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/whoop_justice.txt",
-      "hash": "043daa42cb5e8811871b0d2a855a9ef26c31485792ba6d79bdfb7089f2a150d2",
-      "title": "Whoop race tune by Justice",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "justice",
-        "meteor"
-      ],
-      "author": "Justice - Gary Kent",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
