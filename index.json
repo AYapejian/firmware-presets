@@ -315,28 +315,7 @@
       "author": "Betaflight",
       "priority": 100
     },
-    {
-      "fullPath": "presets/4.3/filters/default_no_rpm_clean.txt",
-      "hash": "a49b93320ce1ae4503a2e43061fd00b7fad70ad6d44acb4d97e040163eb72419",
-      "title": "4.3 Filter settings for CLEAN build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "clean",
-        "no rpm",
-        "basic",
         "default",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
     {
       "fullPath": "presets/4.3/filters/default_no_rpm_normal.txt",
       "hash": "d7d779631e27f231832409940c0f61cd8408a01acc578166f449999440e602e5",
