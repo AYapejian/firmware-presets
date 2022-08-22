@@ -154,7 +154,6 @@
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "DusKing1 (Hugo Chiang), Pitronic",
-      "FPVian",
       "Ivan Efimov (Limon)",
       "Justice - Gary Kent",
       "Jye Smith",
@@ -186,8 +185,7 @@
       "3s",
       "4in",
       "4S",
-      "5 In",
-      "5 Inch",
+      "5 inch",
       "5\"",
       "500Hz",
       "50Hz",
@@ -217,8 +215,6 @@
       "Audio TBS",
       "aux",
       "AyyyKayyy",
-      "bando",
-      "basher",
       "basic",
       "betaflight",
       "BMI270",
@@ -250,7 +246,6 @@
       "flywoo",
       "FPVCycle",
       "FPVCycle TP3",
-      "fpvian",
       "freedom",
       "freedom spec",
       "freestyle",
@@ -1754,28 +1749,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/fpvian_basher_freestyle.txt",
-      "hash": "596fb4e7745a7719916c34759fa7a7e7af7982363d4c26c69f0dee309c509a1a",
-      "title": "Basher Freestyle 6S 5\" by FPVian",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "basher",
-        "freestyle",
-        "5 Inch",
-        "5 In",
-        "5\"",
-        "bando",
-        "fpvian"
-      ],
-      "author": "FPVian",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/freedom_spec_460g.txt",
