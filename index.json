@@ -175,14 +175,10 @@
       "2ms",
       "2S",
       "3 inch",
-      "3in",
       "3S",
-      "4in",
-      "4S",
       "500Hz",
       "50Hz",
       "55Hz",
-      "5in",
       "65mm",
       "666Hz",
       "9ms",
@@ -289,7 +285,6 @@
       "tramp",
       "transmitter",
       "tune",
-      "twig",
       "tx5m.1",
       "utility",
       "very",
@@ -1646,29 +1641,6 @@
       "author": "Ivan Efimov (Limon)",
       "force_options_review": true,
       "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/ctzsnooze_5in_4S_race.txt",
-      "hash": "c2291123e94d95c6de677d8b4ce618c074306bfa35b2f801c4a2743fddcae69d",
-      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "3in",
-        "4in",
-        "5in",
-        "twig",
-        "4S",
-        "race",
-        "tune",
-        "ctzsnooze"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/defaults.txt",
