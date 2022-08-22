@@ -188,6 +188,7 @@
       "Configure",
       "Crossfire",
       "CRSF",
+      "ctzsnooze",
       "default",
       "defaults",
       "digital",
@@ -234,7 +235,7 @@
       "Pure Race",
       "quad66",
       "quad66 rates",
-      "Race",
+      "race",
       "race v1",
       "race v2",
       "Race250",
@@ -245,7 +246,7 @@
       "rc_link",
       "rc_smoothing",
       "reset",
-      "rpm",
+      "RPM",
       "Rx",
       "sa",
       "SA 2.1",
@@ -277,6 +278,25 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/filters/ctzsnooze_race.txt",
+      "hash": "751a6f316eb81fd94215291eb35b719cc52d9ca66baa53668d495f8351e1156c",
+      "title": "ctzsnooze's race filter settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "race",
+        "filter",
+        "filters",
+        "ctzsnooze",
+        "RPM"
+      ],
+      "author": "Betaflight",
+      "priority": 100
+    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "365d91285f53f2ad0a1521a158d498840143f2d566d511397ab19f2f402a920e",
