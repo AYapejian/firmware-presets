@@ -1673,8 +1673,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/quad66_tune_2S_2512_1202_5_11500kv_8_21_2022.txt",
-      "hash": "b0b7fb26ff4e9bf6037cfe940d8d2643294085e8c3708f8c475d0f63dc6d0934",
-      "title": "Quad66 tune 2S 2.5 inch 1103 48 khz 60gm AUW",
+      "hash": "fcb0e800ca2c0bd4acac296e8c2d26dc88c142afc63943799e23a6281917f772",
+      "title": "Quad66 tune 2S GF2512 1202.5 11500kv 48 khz 73 gm AUW",
       "firmware_version": [
         "4.3"
       ],
