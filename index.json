@@ -152,7 +152,6 @@
       "Betaflight",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
-      "DusKing1 (Hugo Chiang), Pitronic",
       "Ivan Efimov (Limon)",
       "Jye Smith",
       "KMfpv",
@@ -184,7 +183,6 @@
       "aux",
       "basic",
       "betaflight",
-      "BMI270",
       "clean",
       "clear",
       "Configure",
@@ -209,9 +207,6 @@
       "frsky",
       "ghost",
       "GHST",
-      "gyro",
-      "gyros",
-      "gyroscope",
       "HDzero",
       "immersion",
       "immersionRC",
@@ -256,7 +251,6 @@
       "sa",
       "SA 2.1",
       "sbus",
-      "settings",
       "setup",
       "Smart",
       "smart audio",
@@ -500,28 +494,6 @@
         "betaflight"
       ],
       "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/dusking_BMI270.txt",
-      "hash": "0dd77e8e1baed07019f836352818d0b8eccb1125f5123511cc25cb0118591a8d",
-      "title": "DusKing's BMI270 filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "BMI270",
-        "filter",
-        "filters",
-        "gyroscope",
-        "gyro",
-        "gyros",
-        "settings",
-        "RPM"
-      ],
-      "author": "DusKing1 (Hugo Chiang), Pitronic",
       "priority": 100
     },
     {
