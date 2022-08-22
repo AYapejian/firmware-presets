@@ -158,8 +158,7 @@
       "KMfpv",
       "MrAlucardDante",
       "Quad66",
-      "sugarK",
-      "UAV Tech (Mark Spatz)"
+      "sugarK"
     ],
     "keywords": [
       "111hz",
@@ -197,7 +196,6 @@
       "defaults",
       "digital",
       "divimath",
-      "DJI",
       "DShot telemetry",
       "E7082VM",
       "eachine",
@@ -261,7 +259,6 @@
       "sa",
       "SA 2.1",
       "sbus",
-      "SBUS fast",
       "settings",
       "setup",
       "Smart",
@@ -770,69 +767,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
-      "hash": "47e4acedecf6c68c74f9fe664a8614f4a2d3517e0665030918a549ca34d623ad",
-      "title": "DJI SBUS FAST",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "DJI",
-        "rc",
-        "link",
-        "SBUS fast"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "8eebd45b94b2ddcb67e0a79f129294cb0a4d73a0f2e32ed9cccbdfcfaf88181a",
-      "title": "ExpressLRS 150Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "150Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "a7f7542d0a921ce0e1916e61985b53efbec5aef269048ed6283ab1db5c6c7b4d",
-      "title": "ExpressLRS 250Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "250Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
       "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
       "hash": "3147f8122a0ac1de06e5191f744518ee0a88bb1fe1a918dc31834874c90b3857",
       "title": "ExpressLRS 500Hz",
@@ -845,29 +779,6 @@
         "ELRS",
         "express",
         "500Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "343ef0679091854be116fb1e42505069d00baf1998fe9daefc83b045f027b747",
-      "title": "ExpressLRS 50Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "50Hz",
-        "20ms",
         "rc",
         "rx",
         "link",
