@@ -241,7 +241,6 @@
       "quad66",
       "quad66 rates",
       "race",
-      "race rates ctzsnooze actual",
       "race v1",
       "race v2",
       "Race250",
@@ -694,21 +693,6 @@
       ],
       "author": "Quad66",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "c580ff16eac1b602195f1194caff3da0476d55c9bc7e527f7b0ba8b67774c24b",
-      "title": "race rates by ctzsnooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race rates ctzsnooze actual"
-      ],
-      "author": "ctzsnooze",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
