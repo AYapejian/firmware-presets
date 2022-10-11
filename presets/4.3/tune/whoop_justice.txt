@@ -106,17 +106,13 @@ set dshot_idle_value = 600
 # Filter options
 
 #$ OPTION BEGIN (UNCHECKED): FILTER: RPM enabled, normal build
-#$ INCLUDE: presets/4.3/filters/basic_rpm_normal.txt
+
 set dyn_idle_min_rpm = 50
 #$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): FILTER: RPM enabled, noisy build
-#$ INCLUDE: presets/4.3/filters/basic_rpm_noisy.txt
-set dyn_idle_min_rpm = 50
-#$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): FILTER: NON-RPM ESCs, normal build
-#$ INCLUDE: presets/4.3/filters/basic_no_rpm_normal.txt
+set dyn_idle_min_rpm = 50
 #$ OPTION END
 
 #$ OPTION_GROUP END
@@ -266,7 +262,7 @@ set dyn_idle_min_rpm = 40
 #$ OPTION_GROUP END
 
 
-#$ OPTION_GROUP BEGIN: These are my race rates...   
+#$ OPTION_GROUP BEGIN: These are my race rates...
 
 # -- Rates --
 #$ OPTION BEGIN (UNCHECKED): Try Gary's race rates - go on!

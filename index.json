@@ -192,25 +192,20 @@
       "aux",
       "ay",
       "basic",
-      "betaflight",
-      "clean",
       "clear",
       "Configure",
       "Crossfire",
       "CRSF",
-      "ctzsnooze",
       "default",
       "defaults",
       "digital",
       "divimath",
-      "DShot telemetry",
       "eachine",
       "ELRS",
       "expert",
       "express",
       "Extreme",
       "filter",
-      "filtering",
       "filters",
       "flywoo",
       "Foxeer",
@@ -219,7 +214,6 @@
       "ghost",
       "GHST",
       "HDzero",
-      "hot",
       "HV",
       "immersion",
       "immersionRC",
@@ -236,9 +230,7 @@
       "MSP",
       "namelessrc",
       "nano",
-      "no rpm",
-      "noisy",
-      "normal",
+      "Normal",
       "OpenVTx",
       "OSD",
       "OSD quad66",
@@ -248,7 +240,7 @@
       "Pure Race",
       "quad66",
       "quad66 rates",
-      "race",
+      "Race",
       "race v1",
       "race v2",
       "Race250",
@@ -259,7 +251,6 @@
       "rc_link",
       "rc_smoothing",
       "reset",
-      "rpm",
       "Rx",
       "sa",
       "SA 2.1",
@@ -280,9 +271,6 @@
       "tune",
       "tx5m.1",
       "utility",
-      "very",
-      "very clean",
-      "very noisy",
       "vtx",
       "vtx table",
       "vtxtable",
@@ -291,243 +279,6 @@
     ]
   },
   "presets": [
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_clean.txt",
-      "hash": "97a33bd6a5bbdb44fe46791aaa11cb2d04b23d4aafb8e43d8baf0c13ae5e2043",
-      "title": "4.3 Filter settings for CLEAN build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "clean",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_noisy.txt",
-      "hash": "80fbb21057b9a7f1d9a278dbb92f115a3d214348a6b5e8b0eb20e1e66c4d0370",
-      "title": "4.3 Filter settings for NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "noisy",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_normal.txt",
-      "hash": "0f45bfc993f1a1c3478f30f25cf603a3ed0ca5482375740b3473e32295f79983",
-      "title": "4.3 Filter settings for NORMAL build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "normal",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_very_clean.txt",
-      "hash": "09eb4f3239fbe6380af3241a97b378de84ad78b6dbc2096ca6ff53228d38c8b9",
-      "title": "4.3 Filter settings for VERY CLEAN build WITHOUT RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "no rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_very_noisy.txt",
-      "hash": "084b35f0c7afd9a7ee12d15a2c1727136b4d48b84345255c07718458ce313ed6",
-      "title": "4.3 Filter settings for VERY NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "very noisy",
-        "very",
-        "noisy",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_clean.txt",
-      "hash": "80dfc87e71ce311583e27348a752f00c5a3c49aff1039de16f4ef1130de76095",
-      "title": "4.3 Filter settings for CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_noisy.txt",
-      "hash": "822607da683c8e1122abee2e84023ce260285f6f3d61e778d1d2d6360989db8d",
-      "title": "4.3 Filter settings for NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "noisy",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_normal.txt",
-      "hash": "1b54a5e95aeabeccf1e924cf4e14743ddd7df318506971f19277d5938cb8346a",
-      "title": "4.3 Filter settings for NORMAL build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "normal",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_very_clean.txt",
-      "hash": "451a7a6c369ed4c6cdc761d5215ebc2c3b28b71914db9c49d5d3da938da7241c",
-      "title": "4.3 Filter settings for VERY CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_very_noisy.txt",
-      "hash": "93d1a4f06ba836033b5857cd4ffae7e601b1f5bd583cf25b115945a6f2a82536",
-      "title": "4.3 Filter settings for VERY NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very",
-        "noisy",
-        "very noisy",
-        "hot",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/ctzsnooze_race.txt",
-      "hash": "751a6f316eb81fd94215291eb35b719cc52d9ca66baa53668d495f8351e1156c",
-      "title": "ctzsnooze's race filter settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race",
-        "filter",
-        "filters",
-        "ctzsnooze",
-        "RPM"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "365d91285f53f2ad0a1521a158d498840143f2d566d511397ab19f2f402a920e",
@@ -597,7 +348,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/AY_AngleHorizAcro_RateProfile_Modes.txt",
-      "hash": "3517c445bbb1bf397e52feeabaa19154bbe2463f4e56994bb4f412c5b5480a25",
+      "hash": "24eca871e6376c6a497752a859ddc7d75517d0c66a2b8e5292923cdbed18e71e",
       "title": "AY - Analog OSD",
       "firmware_version": [
         "4.3"
@@ -1724,7 +1475,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/whoop_justice.txt",
-      "hash": "ab0e286c3e4b33e11878a2b5b752001be1a4862c1859854f38822ee15ad5b570",
+      "hash": "f724a0397740087d491f0b2bfd6932011daf7dad40e61124a7bab27e0b745545",
       "title": "Whoop race tune by Justice",
       "firmware_version": [
         "4.3"
