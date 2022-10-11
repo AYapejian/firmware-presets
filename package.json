@@ -10,9 +10,9 @@
 		"type": "git",
 		"url": "github.com/betaflight/firmware-presets"
 	},
-	"author": "The Betaflight open source project.",
-	"license": "GPL-3.0",
-	"engines": {
-		"node": "10.x"
+	"author" : "The Betaflight open source project.",
+	"license" : "GPL-3.0",
+	"engines" : {
+		"node" : ">=10.x"
 	}
 }
