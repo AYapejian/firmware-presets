@@ -133,6 +133,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "3.5",
       "4.2",
       "4.3"
     ],
@@ -153,18 +154,9 @@
       "Ara Yapejian",
       "AyyyKayyy - Anthony Knight",
       "Betaflight",
-      "BMSThomas",
       "ctzsnooze",
-      "Directory",
-      "DusKing1 (Hugo Chiang), Pitronic",
-      "Evan Turner (Headsup)",
-      "Feisar",
-      "FPVian",
-      "Garban",
-      "IllusionFpv",
+      "Daniel Appel / Tehllama",
       "Ivan Efimov (Limon)",
-      "Joshua Bardwell",
-      "Justice - Gary Kent",
       "Jye Smith",
       "MinChan Kim",
       "MrAlucardDante",
@@ -175,16 +167,18 @@
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
-      "\\\\GAS",
       "111hz",
       "150Hz",
       "15Hz",
       "166Hz",
       "1S",
+      "2 inch",
+      "2.5 inch",
       "20ms",
       "250Hz",
       "2in",
       "2ms",
+      "2S",
       "2S",
       "3 inch",
       "3.5in",
@@ -197,7 +191,6 @@
       "5\"",
       "500Hz",
       "50Hz",
-      "533",
       "55Hz",
       "5in",
       "6 Inch",
@@ -215,8 +208,6 @@
       "9\"",
       "9in",
       "9ms",
-      "acro",
-      "Acrobaix",
       "actual",
       "adjustments",
       "AlexFPV",
@@ -242,40 +233,29 @@
       "cinewhoop",
       "clean",
       "clear",
-      "control",
+      "Configure",
       "Crossfire",
       "CRSF",
       "ctzsnooze",
-      "CTZsoonze",
-      "DDC",
       "default",
       "defaults",
-      "diatone",
-      "disable",
+      "digital",
       "divimath",
-      "DJI",
       "DShot telemetry",
-      "dual",
       "E7082VM",
       "eachine",
+      "eachine",
       "ELRS",
-      "emax",
-      "EVO",
       "expert",
       "express",
-      "feisar",
       "filter",
       "filtering",
       "filters",
-      "five33",
-      "fpvian",
-      "freedom",
-      "freedom spec",
+      "flywoo",
       "freestyle",
       "freesytle",
       "freetyle",
       "frsky",
-      "Garban",
       "ghost",
       "GHST",
       "GPS",
@@ -285,10 +265,6 @@
       "gyroscope",
       "HD",
       "HDzero",
-      "Headsup",
-      "hot",
-      "HV",
-      "IllusionFpv",
       "immersion",
       "immersionRC",
       "IRC",
@@ -299,81 +275,52 @@
       "launch",
       "launch_mode",
       "leds",
-      "Limon",
       "link",
-      "log",
-      "logging",
       "Long Range",
-      "mamba",
-      "meteor",
-      "MinChan",
       "mode",
       "modes",
-      "MultiGP",
-      "names",
+      "namelessrc",
       "nano",
-      "nanohawk",
       "no rpm",
-      "noisy",
       "normal",
       "OP400",
-      "OpenRacer",
       "OpenVTx",
       "OSD",
+      "OSD quad66",
       "OVX300",
       "OVX303",
       "partial",
+      "Passthrough",
       "pid",
-      "pro32",
-      "profile",
       "Pure Race",
-      "quaddiction",
-      "quick",
+      "quad66",
+      "quad66 rates",
       "race",
-      "race rates ctzsnooze actual",
+      "race v1",
+      "race v2",
       "Race250",
       "Race500",
-      "racing",
       "rates",
       "rc",
       "rc link",
       "rc_link",
       "rc_smoothing",
-      "Redpine",
       "reset",
-      "reset statistics",
       "RPM",
-      "rush",
-      "rush tank",
-      "rushfpv",
-      "russia",
       "Rx",
       "sa",
-      "SA 2.0",
-      "SA 2.0 lite",
       "SA 2.1",
-      "sa2.0",
-      "sa20",
       "sbus",
-      "SBUS fast",
-      "settings",
-      "shames",
-      "shark bite",
+      "setup",
+      "Smart",
+      "smart audio",
       "smartaudio",
       "smoothing",
       "Solid250",
       "some",
-      "spec",
-      "speedybee",
-      "stats",
-      "suagrK",
-      "sugarK",
-      "Supafly",
-      "SupaflyFPV",
       "switch",
-      "tank solo",
-      "tank ultimate",
       "TBS",
+      "tbs sa",
       "Team Black Sheep",
       "texas",
       "tiny",
@@ -399,9 +346,7 @@
       "vtx table",
       "vtxtable",
       "whoop",
-      "whooptopia",
-      "world champion",
-      "youtube"
+      "whoop lite"
     ]
   },
   "presets": [
@@ -856,9 +801,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/blackbox_disable.txt",
-      "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
-      "title": "4.3 Blackbox disable settings",
+      "fullPath": "presets/4.3/osd/quad66_osd.txt",
+      "hash": "09b4ff95318516de1d17ae1945262757d009d09f7c454bd74e8a80dff2728300",
+      "title": "Quad66 OSD settings",
       "firmware_version": [
         "4.3"
       ],
@@ -1105,7 +1050,7 @@
       "category": "RATES",
       "status": "COMMUNITY",
       "keywords": [
-        "freestyle"
+        "quad66 rates"
       ],
       "author": "Directory",
       "priority": 10000
@@ -1410,29 +1355,6 @@
         "ELRS",
         "express",
         "500Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "343ef0679091854be116fb1e42505069d00baf1998fe9daefc83b045f027b747",
-      "title": "ExpressLRS 50Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "50Hz",
-        "20ms",
         "rc",
         "rx",
         "link",
@@ -2036,41 +1958,22 @@
       "priority": 10000000000
     },
     {
-      "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",
-      "hash": "4eda547aa9254df2aaa1f8d9ced25a219864255ac5a58c3b53ad3545fc19f33d",
-      "title": "Redpine 666Hz",
+      "fullPath": "presets/4.3/rc_link/quad66_elrs_500hz.txt",
+      "hash": "38132a476cde855626f8bf81bdf90646d1916a940890578aaadf3ee64d97840b",
+      "title": "Quad66 ELRS 500hz",
       "firmware_version": [
         "4.3"
       ],
       "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
-        "Redpine",
+        "ELRS",
         "rc",
         "link",
-        "666Hz"
+        "500hz",
+        "quad66"
       ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/redpine_mpm.txt",
-      "hash": "1f50051c8871655a820d60b1d221b35bb052b26a9880c916d963faa74c4ecfd0",
-      "title": "Redpine MPM",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Redpine",
-        "rc",
-        "link",
-        "666Hz"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
+      "author": "Quad66",
       "priority": 10000000000
     },
     {
@@ -2416,8 +2319,7 @@
         "bando",
         "fpvian"
       ],
-      "author": "FPVian",
-      "force_options_review": true,
+      "author": "Quad66",
       "priority": 1000000000000
     },
     {
@@ -2442,7 +2344,7 @@
         "race",
         "5\""
       ],
-      "author": "Ivan Efimov (Limon)",
+      "author": "Quad66",
       "priority": 1000000000000
     },
     {
@@ -2453,7 +2355,7 @@
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "karate",
         "6S",
@@ -2465,7 +2367,7 @@
         "karateBrot",
         "freestyle"
       ],
-      "author": "sugarK",
+      "author": "Quad66",
       "priority": 1000000000000
     },
     {
@@ -2476,7 +2378,7 @@
         "4.3"
       ],
       "category": "TUNE",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "karate",
         "6S",
@@ -2489,12 +2391,12 @@
         "ctzsnooze",
         "karateBrot"
       ],
-      "author": "sugarK",
+      "author": "Quad66",
       "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/reset_all.txt",
-      "hash": "5b9d76fd857aa8637c394a13e86f4dc651173ca559afe3f61556ff2b0742f347",
+      "hash": "db400b440af2f5cc25d0980fcc25cc5712f71f5ba843fcbf8020d464f6fedcb2",
       "title": "Reset 4.3 Tune parameters, complete listing",
       "firmware_version": [
         "4.3"
@@ -2514,7 +2416,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/reset_some.txt",
-      "hash": "3fa44efe126b5d69036e960559722306bce24c7f1176698a5ff6be21adc2996d",
+      "hash": "94c3a7ddfbc201135425fdf473d3480ddbbf4a498f0206d8508e19f75cc56964",
       "title": "Reset selected 4.3 Tune related settings.",
       "firmware_version": [
         "4.3"
