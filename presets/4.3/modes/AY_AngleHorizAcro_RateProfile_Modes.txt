@@ -1,0 +1,35 @@
+#$ TITLE: AY - Analog OSD
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: analog, ay
+#$ AUTHOR: Ara Yapejian
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: AY - Flight Mode (AngleHorizAcro) driven Rate Profiles
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: This sets up:
+#$ DESCRIPTION:     - Flight Mode on Aux2 (Angle=Up, Horiz=Mid, Acro=Down)
+#$ DESCRIPTION:     - Aux2 position changes rate profile such that Angle=rateprofile1, Horiz=rateprofile2, Acro=rateprofile3
+#$ DESCRIPTION:     - Changes Rate profile names to reference the flight mode driven (rateprofile1=rpAngle, Horiz=rpHoriz, Acro=rpAcro)
+#$ DESCRIPTION:     - NOTE: Also changes some other modes such as AirMode, Crashflip, etc. This needs to be separated under an option perhaps
+#$ DESCRIPTION:
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+
+# TODO: This needs breaking up between just the flight mode/rate profile changes and the other settings under an OPTION
+# aux
+aux 0 0 0 1800 2100 0 0
+aux 1 1 1 900 1200 0 0
+aux 2 2 1 1300 1700 0 0
+aux 3 28 2 1300 1700 0 0
+aux 4 28 1 1800 2100 0 0
+aux 5 35 2 1800 2100 0 0
+
+# aux
+aux 0 0 0 1800 2100 0 0
+aux 1 1 1 900 1200 0 0
+# adjrange
+adjrange 0 0 1 900 2100 12 1 0 0
